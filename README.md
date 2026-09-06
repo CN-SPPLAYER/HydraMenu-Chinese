@@ -1,4 +1,4 @@
-# Hydra（汉化增强版）
+# Hydra2.0（汉化增强版）
 <div align="center">
   <img src="https://github.com/MrDiamond64/Hydra/blob/main/img/main.png?raw=true" alt="Hydra 玩家界面截图"/>
 </div>
